@@ -33,4 +33,4 @@ Branches:
  - main - for production and corresponds to Production in Cloudfare
 
 ### Support
-If you wish to support me you can by me a [coffee](https://buymeacoffee.com/markian98f).
+If you wish to support me you can buy me a [coffee](https://buymeacoffee.com/markian98f).
